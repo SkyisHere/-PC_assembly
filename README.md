@@ -1,1 +1,1 @@
-# -PC_assembly - сайт сборки пк
+# PC_assembly - сайт сборки пк
